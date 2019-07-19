@@ -1,5 +1,5 @@
 
-#Frogs
+# Frogs
 
 The game of frogs is a bit like chinese checkers: you have get all the 
 frogs on the left to right, and all the ones on the right to the left. 
@@ -17,10 +17,10 @@ of the game is to move each frog until the board ends at
 Frogs can only move forwards (X moves rightwards, O moves leftwards) 
 in the following ways:
 
-1. A frog can move forward by one move into an unoccupied space. E.g.,
+- A frog can move forward by one move into an unoccupied space. E.g.,
 from the initial board, we can move to XX.XOOO.
 
-2. A frog can jump over the frog in front of it into an unoccupied
+- A frog can jump over the frog in front of it into an unoccupied
 space.  E.g., from XX.XOOO, we can move to XXOX.OO.
 
 It'll take you a few minutes to solve the 3-frog game. The solution
